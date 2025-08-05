@@ -1,20 +1,20 @@
-## 🌟 Bem-vindx
+## 🌟 Hello Wordl 
 
 # Sobre mim
 
-🎓 Estudante de **Cybersecurity**, Front-End & UX Design  
-🌱 Construindo uma base sólida em tech
+ Estudante de **Cybersecurity**, Front-End & UX Design  
+ Construindo uma base sólida em tech
 
 ---
 
-## 💻 Tecnologias  
+##  Tecnologias  
 - HTML | CSS | JavaScript | Python  
-- Segurança digital 🔐  
-- UX Design 🎨
+- Segurança digital 
+- UX Design 
 
 ---
 
-## 🚀 Objetivos  
+##  Objetivos  
 - Aplicar conhecimentos em projetos reais  
 - Desenvolver soluções seguras e intuitivas  
 - Crescer na área tech
