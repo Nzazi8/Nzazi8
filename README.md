@@ -1,6 +1,6 @@
-## 🌟 Bem-vindx 
+## 🌟 Bem-vindx
 
-<!--# Sobre mim
+# Sobre mim
 
 🎓 Estudante de **Cybersecurity**, Front-End & UX Design  
 🌱 Construindo uma base sólida em tech
@@ -8,7 +8,7 @@
 ---
 
 ## 💻 Tecnologias  
-- HTML | CSS | JavaScript| Python 
+- HTML | CSS | JavaScript | Python  
 - Segurança digital 🔐  
 - UX Design 🎨
 
