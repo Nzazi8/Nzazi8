@@ -21,6 +21,5 @@
 
 ---
 
-![Crescimento](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)  
-![Coding](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Crescimento](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVuZzlkNnN0YTdxd3BxNXl0djdpYjFiZ2g0N3k3NWoxYW80YzR4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif)  
 
