@@ -21,5 +21,5 @@
 
 ---
 
-![Crescimento](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNqaWg4ODhzYW1yZG16ZW1nYWhhbWxsbTNhaDdxenM3aWFkaXFkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)  
+![Crescimento](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RvY3dmNTJwdjBiYmJjd2xzbndybnhxMDNjenlhYTY5NXE2dWNnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif)  
 
