@@ -5,19 +5,8 @@
  Estudante de **Cybersecurity**, Front-End & UX Design  
  Construindo uma base sólida em tech
 
----
 
-##  Tecnologias  
-<div style="display: lex; justify-content: center; aling-items: center; heith: 50px"> 
-<img width="120px" scr=">/assets/html-5.jpg" title=html/>
-<img width="120px" scr=">/assets/javascipt.jpg" title=javascript/>
-<img width="120px" scr=">/assets/python.jpg" title=python/>
-<img width="120px" scr=">/assets/Vector.jpg" title=er/>
-</div>
 
->
-
----
 
 ##  Objetivos  
 - Aplicar conhecimentos em projetos reais  
